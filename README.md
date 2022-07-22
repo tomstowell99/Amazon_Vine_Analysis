@@ -25,3 +25,11 @@
    - This equated to 39% of non-Vine users giving the five star review.
    
 ![NonVinerate](https://user-images.githubusercontent.com/102548266/180547099-ba398a35-ec59-493e-9c4e-35fd74850a85.PNG)
+
+### Summary
+   From the data. It appears that there is a bias from Vine users to give a five star ranking (51%) than there is
+   with the non_vine users (39%)
+   
+   Optional reporting that could be done. The statistical sample size for Vine users was small. We should run a full
+   correlation report on the entire population. This could show us over all the ratings if Vine users generally rank
+   the product they recieve higher than other users. Over all ratings.
