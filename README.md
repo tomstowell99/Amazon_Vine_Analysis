@@ -12,8 +12,16 @@
    
    ### Vine Users
    
-    * There were 94 Vine user reviews.
-    * In 48 of those reviews they gave a full five star rating
-    * This equated to 51% of the Vine users giving a five star review.
+    - There were 94 Vine user reviews.
+    - In 48 of those reviews they gave a full five star rating
+    - This equated to 51% of the Vine users giving a five star review.    
     
-    ![](https://github.com/tomstowell99/Amazon_Vine_Analysis/blob/main/VineRate.PNG)
+![VineRate](https://user-images.githubusercontent.com/102548266/180538293-015d8e5c-29f7-443e-8541-75bc2c6d81dc.PNG)
+
+### Non Vine Users
+   
+   - There were 40,471 non-Vine user reviews
+   - 15,663 of those reviewers gave the full five star rating
+   - This equated to 39% of non-Vine users giving the five star review.
+   
+![NonVinerate](https://user-images.githubusercontent.com/102548266/180547099-ba398a35-ec59-493e-9c4e-35fd74850a85.PNG)
